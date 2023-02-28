@@ -9,8 +9,8 @@ import { faGithub, faLinkedin, faRedditAlien, faTwitter } from '@fortawesome/fre
 const Sidebar = () => (
   <div className="nav-bar">
     <Link className="logo" to="/">
-      <img src={LogoS} alt="logo" />
-      <img className="sub-logo" src={LogoSubTitle} alt="slobodan" />
+      <img src={LogoS} alt="Mauro Metz" />
+      <img className="sub-logo" src={LogoSubTitle} alt="Mauro Metz" />
     </Link>
     <nav>
       <NavLink exact="true" activeclassname="active" to="/">

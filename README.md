@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Sobre
 
-Esse projeto está sendo feito seguindo [Este](https://www.youtube.com/watch?v=bmpI252DmiI) tutorial.
+Esse projeto está sendo feito seguindo [Este](https://www.youtube.com/watch?v=bmpI252DmiI) tutorial'.
