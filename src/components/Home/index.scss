@@ -29,7 +29,7 @@
         }
 
         &::after {
-            content: '</h1>';
+            content: '<h1>';
             font-family: 'La Belle Aurore';
             color: #ffd700;
             font-size: 18px;
@@ -41,7 +41,7 @@
         }
 
         img {
-            width: 32px;
+            width: 62px;
             margin-left: 20px;
             opacity: 0;
             height: auto;
